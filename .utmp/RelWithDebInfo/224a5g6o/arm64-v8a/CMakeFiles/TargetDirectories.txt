@@ -1,0 +1,5 @@
+/Users/hansikas/Projects/VRProject/.utmp/RelWithDebInfo/224a5g6o/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/hansikas/Projects/VRProject/.utmp/RelWithDebInfo/224a5g6o/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/hansikas/Projects/VRProject/.utmp/RelWithDebInfo/224a5g6o/arm64-v8a/GameActivity/CMakeFiles/game.dir
+/Users/hansikas/Projects/VRProject/.utmp/RelWithDebInfo/224a5g6o/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+/Users/hansikas/Projects/VRProject/.utmp/RelWithDebInfo/224a5g6o/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
